@@ -1,6 +1,5 @@
 ### Olá, mundo! Eu sou Emilson Souza 👨‍💻
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  <div>
   <a href="https://github.com/emilsonsn">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emilsonsn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <i class="devicon-mysql-plain-wordmark"></i>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
   <img align="right" alt="Rafa-yoda" src="https://user-images.githubusercontent.com/53051138/129760253-f86b0b58-e310-4d49-af68-c1c11274cbd5.png">
 </div>
