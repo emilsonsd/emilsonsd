@@ -1,4 +1,5 @@
 ### Olá, mundo! Eu sou Emilson Souza 👨‍💻
+### Estudante de Ciência da Computação na UFPB, desenvolvedor de sistemas web na Officecom Sistemas e sempre ansioso por desafios e novos conhecimentos.
  <div>
   <a href="https://github.com/emilsonsn">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emilsonsn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
