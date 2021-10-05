@@ -1,7 +1,5 @@
 ### Olá, mundo! Eu sou Emilson Souza 👨‍💻
-### Estudante de Ciência da Computação na UFPB, Estagiário de computação <br>
-no projeto de pesquisa Paraíba Humana e Inteligente e sempre ansioso por<br>
-desafios e novos conhecimentos.
+### Estudante de Ciência da Computação na UFPB, Estagiário de computação <br> no projeto de pesquisa Paraíba Humana e Inteligente e sempre ansioso por<br> desafios e novos conhecimentos.
 
 <a href="http://emilson-souza.epizy.com" target="_blank">Portifólio pessoal</a>
  <div>
