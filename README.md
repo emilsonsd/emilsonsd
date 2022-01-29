@@ -1,5 +1,6 @@
-### Olá, mundo! Eu sou Emilson Souza 👨‍💻
-### Estudante de Ciência da Computação na UFPB, Estagiário de computação <br> no projeto de pesquisa Paraíba Humana e Inteligente e sempre ansioso por<br> desafios e novos conhecimentos.
+### Echo "Olá, mundo! Eu sou Emilson Souza" 👨‍💻
+### Desenvolvedor de software na officecom sistemas, estudo ciência da computação na Universidad Federal da Paraíba.
+Sempre ansioso por aprender mais, tenho focado meus estudo nas tecnologias que rodam no backend, com ênfase na linguagem PHP.
 
  <div>
   <a href="https://github.com/emilsonsn">
