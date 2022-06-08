@@ -1,5 +1,4 @@
-### Echo "Olá, mundo! Eu sou Emilson Souza" 👨‍💻
-### Desenvolvedor de software na officecom sistemas, estudo Ciência da Computação na Universidade Federal da Paraíba onde também sou pesquisador no projeto Paraíba Humana e Inteligente. Sempre ansioso por aprender mais, tenho focado meus estudo nas tecnologias que rodam no backend, com ênfase na linguagem PHP.
+### Desenvolvedor php junior 👨‍💻
 
  <div>
   <a href="https://github.com/emilsonsn">
