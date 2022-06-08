@@ -1,4 +1,4 @@
-### Desenvolvedor php junior 👨‍💻
+### Desenvolvedor PHP junior 👨‍💻
 
  <div>
   <a href="https://github.com/emilsonsn">
