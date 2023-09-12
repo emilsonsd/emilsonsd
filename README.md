@@ -1,4 +1,4 @@
-### Desenvolvedor Python junior 👨‍💻
+### Desenvolvedor Python 👨‍💻
 
  <div>
   <a href="https://github.com/emilsonsn">
