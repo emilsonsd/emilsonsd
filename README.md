@@ -19,9 +19,12 @@
 
 <i class="fa-brands fa-laravel"></i>
  <br><hr>
- 
+<div>
+  <a href="https://emilsonsouza.com.br" target="_blank">Meu portifólio pessoal</a> <br>
+  <a href="https://www.99freelas.com.br/user/emilsonsn" target="_blank">Meu portifólio na 99freelas</a> <br> 
+</div>
+<br>
 <div> 
- <a href="https://emilsonsouza.com.br" target="_blank">Meu portifólio</a>
   <a href="https://instagram.com/emilson.sn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5583991236636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:emilsonsn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
