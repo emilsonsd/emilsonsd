@@ -19,7 +19,7 @@
  <div>
 <h1>Olá! 👋 Bem-vindo ao meu GitHub!</h1>
 
-<p>Olá! Me chamo <strong>Emilson</strong>, e sou um desenvolvedor de software com 5 anos de experiência, sempre motivado pela paixão por criar soluções que realmente fazem a diferença. Ao longo da minha jornada, tive a alegria de trabalhar em projetos desafiadores, onde pude desenvolver aplicações web robustas, automações que facilitam o dia a dia e, principalmente, atender às necessidades das pessoas de maneira eficiente. Procuro estar em constante aprendizado, sempre buscando usar as tecnologias mais modernas para entregar o melhor resultado possível.</p>
+<p>Olá! Me chamo <strong>Emilson</strong>, e sou um desenvolvedor de software com 4 anos de experiência na área, sempre motivado pela paixão por criar soluções que realmente fazem a diferença. Ao longo da minha jornada, tive a alegria de trabalhar em projetos desafiadores, onde pude desenvolver aplicações web robustas, automações que facilitam o dia a dia e, principalmente, atender às necessidades das pessoas de maneira eficiente. Procuro estar em constante aprendizado, sempre buscando usar as tecnologias mais modernas para entregar o melhor resultado possível.</p>
 
 <h2>⚡ Sobre mim:</h2>
 <ul>
