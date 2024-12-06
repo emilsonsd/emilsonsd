@@ -19,7 +19,18 @@
  <div>
 <h1>Olá! 👋 Bem-vindo ao meu GitHub!</h1>
 
-<p>Olá! Me chamo <strong>Emilson</strong>, e sou desenvolvedor a 5 anos. Sou motivado pela paixão de criar soluções que realmente fazem a diferença. Ao longo da minha jornada, tive a alegria de trabalhar em projetos desafiadores, onde pude desenvolver aplicações robustas, e gerenciar pequenos times. Procuro estar em constante aprendizado, sempre buscando usar as melhores práticas de desenvolvimento para entregar o melhor resultado possível.</p>
+<p>Olá! Me chamo <strong>Emilson</strong>, 
+ <p>
+   Desenvolvo sistemas web a mais de 4 anos, e sou
+   muito feliz no que faço. Me apaixonei pela resolução
+   de problemas . Ao longo da minha carreira, trabalhei
+   em diversos projetos de médio e grande porte. Sempre
+   comprometido com a qualidade e otimização do meu
+   código. Sou entusiasta de tecnologias e estou
+   constantemente aprimorando minhas habilidades
+   para me tornar cada vez mais um profissional mais
+   completo.
+ </p>
 
 <h3 align="center"</h3>My Github Stats
 <div align="center">
