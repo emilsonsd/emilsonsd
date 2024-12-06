@@ -19,11 +19,20 @@
  <div>
 <h1>Olá! 👋 Bem-vindo ao meu GitHub!</h1>
 
-<p>Olá! Me chamo <strong>Emilson</strong>, e sou um desenvolvedor de software com 4 anos de experiência na área, sempre motivado pela paixão por criar soluções que realmente fazem a diferença. Ao longo da minha jornada, tive a alegria de trabalhar em projetos desafiadores, onde pude desenvolver aplicações web robustas, automações que facilitam o dia a dia e, principalmente, atender às necessidades das pessoas de maneira eficiente. Procuro estar em constante aprendizado, sempre buscando usar as tecnologias mais modernas para entregar o melhor resultado possível.</p>
+<p>Olá! Me chamo <strong>Emilson</strong>, e sou desenvolvedor a 5 anos. Sou motivado pela paixão de criar soluções que realmente fazem a diferença. Ao longo da minha jornada, tive a alegria de trabalhar em projetos desafiadores, onde pude desenvolver aplicações robustas, e gerenciar pequenos times. Procuro estar em constante aprendizado, sempre buscando usar as melhores práticas de desenvolvimento para entregar o melhor resultado possível.</p>
+
+<h3 align="center"</h3>My Github Stats
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emilsonsn&theme=tokyonight" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emilsonsn&theme=tokyonight&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emilsonsn&theme=tokyonight&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emilsonsn&theme=tokyonight&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilsonsn&theme=tokyonight" height="180em" alt="Commitments"/>
+</div>
 
 <h2>⚡ Sobre mim:</h2>
 <ul>
-  <li><strong>Desenvolvedor Full Stack</strong> com experiência em <strong>PHP</strong> e <strong>(Angular)</strong>.</li>
+  <li><strong>Desenvolvedor Full Stack.</li>
   <li>Possuo conhecimentos em <strong>arquitetura de sistemas</strong> e boas práticas como <strong>SOLID</strong> e <strong>TDD</strong>.</li>
   <li>Apaixonado por tecnologia e inovação, estou sempre aprendendo e me desafiando.</li>
 </ul>
@@ -33,7 +42,7 @@
   <li><strong>Backend</strong>: PHP (Laravel), Node.js</li>
   <li><strong>Frontend</strong>: Angular, Jquery, JavaScript, Bootstrap, HTML, CSS,</li>
   <li><strong>Banco de Dados</strong>: MySQL, PostgreSQL, MongoDB</li>
-  <li><strong>DevOps</strong>: Docker, Nginx, Apache2</li>
+  <li><strong>DevOps</strong>: Docker, Nginx, Apache2, Redis</li>
   <li><strong>Outros</strong>: Git, OpenAPI, Swagger, ThreadPoolExecutor</li>
 </ul>
 
